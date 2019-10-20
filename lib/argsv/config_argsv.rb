@@ -1,5 +1,5 @@
 # lib/argsv/config_argsv.rb
-# Written by, sohail.github.io
+# Written by, Sohail Qayum Malik
 
 module Config_Argsv
   SIZE_OF_SHORT_COMMAND=1

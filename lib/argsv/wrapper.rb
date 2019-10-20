@@ -1,5 +1,5 @@
 # lib/argsv/wrapper.rb
-# Written by, sohail.github.io
+# Written by, Sohail Qayum Malik
 
 # Reference, lib/tentd/query.rb
 

@@ -1,5 +1,5 @@
 # Example-Application/example-application-2.rb
-# Written by, sohail.github.io
+# Written by, Sohail Qayum Malik
 
 # This application demonstrates the usage and smarts of argsv-ruby
 

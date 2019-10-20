@@ -1,5 +1,5 @@
 # lib/argsv/argsv.rb
-# Written by, sohail.github.io
+# Written by, Sohail Qayum Malik
 
 require 'argsv/config_argsv'
 
